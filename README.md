@@ -15,3 +15,6 @@
 Or In Linux 
 `python3 script.py`
 - Enter the time for how much if a person not in camra after that the Pc Will Hybernate.
+
+
+## This is Not My Proper Code I just have Updated The Code Of Iharsh234 https://github.com/iharsh234/Hack
